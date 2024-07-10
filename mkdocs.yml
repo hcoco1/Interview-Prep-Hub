@@ -7,6 +7,8 @@ nav:
   - Non Technical Questions:
       - General: 'questions.md'
       - STAR Method: 'star.md'
+      - Interview 1: interview.md
+      - Resume: 'resume.md'
   - Technical Questions:
       - Js (Vanilla): 'vanilla.md'
       - React: 'react.md'
