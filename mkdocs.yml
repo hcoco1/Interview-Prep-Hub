@@ -1,0 +1,7 @@
+site_name: hcoco1
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
