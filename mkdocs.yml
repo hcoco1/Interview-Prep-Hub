@@ -1,7 +1,21 @@
 site_name: hcoco1
 
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home:
+      - Overview: 'index.md'
+      - Elevator Pitch: 'pitch.md'
+  - Non Technical Questions:
+      - General: 'questions.md'
+      - STAR Method: 'star.md'
+
+  - Technical Questions:
+    - Js (Vanilla): 'vanilla.md'
+    - React: 'react.md'
+    - Python: 'python.md'
+    - Cybersecurity: 'cyber.md'
+    - AWS: 'aws.md'
+
+
 
 theme: readthedocs
+

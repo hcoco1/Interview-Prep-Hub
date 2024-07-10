@@ -1,17 +1,19 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## "Welcome to Interview Prep Hub"  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+>"At Interview Prep Hub, we provide you with a wide range of interview questions and expertly crafted answers to help you prepare for any job interview. Whether you're a seasoned professional or just starting your career, our resources are designed to boost your confidence and ensure you make a great impression."
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+### Non Technical Interviews:
+
+
+
+- Behavioral Interview: Evaluates past behavior to predict future performance.
+- Situational Interview: Assesses how candidates would handle hypothetical scenarios.
+- Panel Interview: Multiple interviewers assess the candidate together.
+- Group Interview: Involves interviewing multiple candidates simultaneously.
+- Stress Interview: Tests how candidates handle stress and pressure.
+- HR Interview: Conducted by HR to assess overall fit within the company culture.
