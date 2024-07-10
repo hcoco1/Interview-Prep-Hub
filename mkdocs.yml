@@ -7,15 +7,18 @@ nav:
   - Non Technical Questions:
       - General: 'questions.md'
       - STAR Method: 'star.md'
-
   - Technical Questions:
-    - Js (Vanilla): 'vanilla.md'
-    - React: 'react.md'
-    - Python: 'python.md'
-    - Cybersecurity: 'cyber.md'
-    - AWS: 'aws.md'
+      - Js (Vanilla): 'vanilla.md'
+      - React: 'react.md'
+      - Python: 'python.md'
+      - Cybersecurity:
+          - Asset and Inventory: 'assest_cyber.md'
+          - Network Systems: 'system.md'
+      - AWS: 'aws.md'
+
+theme:
+  name: 'readthedocs'
 
 
-
-theme: readthedocs
+docs_dir: 'docs'
 
