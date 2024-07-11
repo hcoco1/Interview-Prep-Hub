@@ -4,7 +4,7 @@ nav:
   - Home:
       - Overview: 'index.md'
   - Elevator Pitch:
-      - Videos: 'pitch.md'
+      - Videos & Audios: 'pitch.md'
   - Non Technical Questions:
       - General: 'questions.md'
       - STAR Method: 'star.md'

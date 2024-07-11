@@ -22,7 +22,7 @@ Created by:  [Ivan Arias](https://www.hcoco1.com)
 - [React](react.md)
 - [Python](python.md)
 - Cybersecurity:
-  - [Asset and Inventory](asset_cyber.md)
+  - [Asset and Inventory](assest_cyber.md)
   - [Network Systems](system.md)
 - [AWS](aws.md)
 
