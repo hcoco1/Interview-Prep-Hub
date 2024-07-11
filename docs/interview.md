@@ -1,4 +1,6 @@
-## Tell me about yourself.
+## Interview Questions (Flatiron School)
+
+### 1. Tell me about yourself.
 
 Thank you for allowing me to be interviewed for this position today. My name is Ivan, and I am a full-stack developer. Before submitting my resume, I read the job description and am confident I have the skills, qualities, and knowledge to excel in the role. I recently graduated with a CERTIFICATION in Web Development. I am a fast learner; I possess excellent problem-solving capabilities and can manage a significant workload.
 
@@ -6,11 +8,11 @@ I have an impressive track record of achievement. For example, in my previous ro
 
 I'm excited to apply my skills and continue learning professionally. If you hire me for this position, you will quickly see a positive return on your investment.
 
-## Why do you want to be a developer?
+### 2. Why do you want to be a developer?
 
 I've always been fascinated by technology and its potential to impact people's lives significantly. I love the idea of creating solutions to real-world problems through coding. During my early programming courses at Flatiron School, I discovered how much I enjoyed the logical thinking and creativity required in software development, which solidified my decision to pursue a career in this field.
 
-## Why do you want to work on Cybersecurity?
+### 3. Why do you want to work on Cybersecurity?
 
 I am deeply passionate about working in cybersecurity for several reasons. Firstly, the field is constantly evolving, which means there is always something new to learn. This continuous learning and the challenge of staying ahead of potential threats are both exciting and intellectually stimulating for me.
 
@@ -22,19 +24,19 @@ Finally, cybersecurity offers a dynamic and rewarding career path. The demand fo
 
 In summary, my passion for continuous learning, desire to make a meaningful impact, technical background, and the promising career prospects make cybersecurity the perfect field for me.
 
-## What intrigued you about this role or company?
+### 4. What intrigued you about this role or company?
 
 "I want this job because it is a role and industry I am passionate about, and my research tells me you are a forward-thinking company with an inclusive workplace culture where there is opportunity for all.
 
 My dedication, enthusiasm, and skills make me a strong fit for this role. I am excited about the opportunity to contribute to your team's success and thrive in an inclusive and collaborative workplace.
 
-## How can your previous background add value to [this company/role]?
+### 5. How can your previous background add value to [this company/role]?
 
 I will quickly add value to your business in this role. I am a self-starter and can be left alone to complete tasks quickly, diligently, and on time. I will bring a positive attitude to the position that will rub off on my co-workers and always take responsibility for my professional development.
 
 You should also hire me because I have a track record of achievement. For example, in a previous role, my supervisor praised me for my work speed and how I would get more tasks done than the average person.
 
-## What did you learn in your Flatiron School's program?
+### 6. What did you learn in your Flatiron School's program?
 
 The Flatiron School's curriculum covered a variety of technologies and tools, focusing on Python using Flask for back-end development and JavaScript for front-end development.
 
@@ -42,7 +44,7 @@ Throughout the program, I improve my web development skills. I learned to design
 
 The hands-on projects and collaborative learning environment at Flatiron School equipped me with the practical experience and problem-solving skills necessary for a successful career in web development.
 
-## What did you learn in your Full Stack School's program?
+### 7. What did you learn in your Full Stack School's program?
 
 The cyber bootcamp offered a comprehensive education in offensive and defensive cybersecurity strategies. On the offensive side, participants learned Red Team skills, including identifying and exploiting web vulnerabilities, executing social engineering attacks, and using tools like Metasploit for exploitation and credential collection. They also learned privilege escalation and lateral movement techniques, gaining a deep understanding of attackers' methods.
 
@@ -53,7 +55,7 @@ In addition to Red and Blue Team training, the bootcamp emphasizes the versatili
 Overall, the bootcamp's curriculum provided a balanced and rigorous education, equipping participants with the knowledge and skills to address real-world cybersecurity challenges from offensive and defensive perspectives effectively.
 
 
-## Walk me through one of your projects that you are most proud of. (Web Development 1/2)
+### 8. Walk me through one of your projects that you are most proud of. (Web Development 1/2)
 
 One of the projects I'm particularly proud of is the Database Tool, which I developed during Phase 3 of my Flatiron School program.
 
@@ -65,11 +67,11 @@ One unique aspect of Database Tool is that it comes with a game that challenges 
 
 In the future, I plan to expand the scope of Database Tool by adding new topics such as math, science, and history. Additionally, I have plans to translate the app into Spanish, making it accessible to a broader audience.
 
-## Walk me through one of your projects that you are most proud of. (Web Development 2/2)
+### 9. Walk me through one of your projects that you are most proud of. (Web Development 2/2)
 
-## Walk me through one of your projects that you are most proud of. (Cybersecurity)
+### 10. Walk me through one of your projects that you are most proud of. (Cybersecurity)
 
-## Tell me about a time when you successfully solved a problem/resolved a difficult situation and how you did that.
+### 11. Tell me about a time when you successfully solved a problem/resolved a difficult situation and how you did that.
 
 **Situation**: When I started in a previous role, my manager asked me to do a simple administrative task. I’d completed this type of work many times before, so I thought I knew what to do.
 
@@ -79,7 +81,7 @@ In the future, I plan to expand the scope of Database Tool by adding new topics 
 
 **Result**: I always succeeded because of my new systematic approach to working.
 
-## What are your salary expectations?
+### 12. What are your salary expectations?
 
 "I researched the salary range for this position and industry on GlassDoor.com before the interview.
 
@@ -87,13 +89,13 @@ The salary range is between $40,000 and $53,000. Based on my knowledge, expertis
 
 However, I also appreciate that you do not know me, and I need to prove to you my worth. Therefore, I would be comfortable with a salary of $51,000, and for that amount, I will ensure you see a positive return from your investment."
 
-## What questions do you have for me?
+### 13. What questions do you have for me?
 
 - Please tell me more about the team I would be a part of in this role.
 - What qualities and attributes make for a successful employee in this company?
 - What do you think is the most challenging aspect of the job?
 
-## What are your strengths and weaknesses?
+### 14. What are your strengths and weaknesses?
 
 My greatest strengths are flexibility and adaptability, taking ownership of my self-development and problem-solving capabilities.
 
@@ -105,7 +107,7 @@ My biggest weakness is that I need to improve my public speaking skills. However
 
 My weakness is I find it hard to say no to people, which sometimes means I take on too many responsibilities.
 
-## What motivates you?
+### 15. What motivates you?
 
 Several factors are my primary motivators. First and foremost, delivering exceptional performance for my employer is a driving force, providing financial rewards and job security.
 
@@ -113,10 +115,14 @@ My motivation sources are also maintaining a healthy lifestyle and supporting my
 
 Finally, self-development is another motivator. If I am developing professionally, I feel good about myself, am adding value to my team, and will get more opportunities in the company.
 
-## How do you respond to criticism?
+### 16. How do you respond to criticism?
 
 I respond to criticism positively. I see constructive criticism and feedback as valuable information and advice to help me improve and add value to my employer. When someone offers me feedback, I will listen to what they say and determine if it can help me improve. I will take positive action to quickly develop the skills and qualities needed to reach my goal.
 
-## What to say when you cannot answer an interview question
+### 17. What to say when you cannot answer an interview question
 
 I am very sorry, I don’t know the answer to that question. However, as soon I get back from the interview, I will conduct some research and contact you by email to let you know.
+
+### SOFTWARE ENGINEER Behavioral Interview Questions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktUHzfvCNs8?si=KUnpkYTAeOViWIEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -71,6 +71,6 @@ I get my security news from a variety of sources, including:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc_jntovCM0?si=vf_81AjVpbL4BVDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### General (Technical) questions.
+### General (Technical and non Technical) questions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j06Kg7OkoR0?si=-80hYOxpoxS_rnx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

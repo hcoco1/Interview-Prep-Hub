@@ -1,19 +1,28 @@
+## Welcome to Interview Prep Hub
 
+Created by:  [Ivan Arias](https://www.hcoco1.com)
 
-## "Welcome to Interview Prep Hub"  
-
->"At Interview Prep Hub, we provide you with a wide range of interview questions and expertly crafted answers to help you prepare for any job interview. Whether you're a seasoned professional or just starting your career, our resources are designed to boost your confidence and ensure you make a great impression."
+> "At Interview Prep Hub, we offer a comprehensive collection of interview questions and expertly crafted answers to help you prepare for any job interview. Whether you're a seasoned professional or just starting your career, our resources are designed to boost your confidence and ensure you make a great impression."
 
 ---
 
+### Table of Contents
 
-### Non Technical Interviews:
+#### Elevator Pitch
+- [Videos](pitch.md)
 
+#### Non-Technical Questions
+- [General](questions.md)
+- [STAR Method](star.md)
+- [Interview 1](interview.md)
+- [Resume](resume.md)
 
+#### Technical Questions
+- [JavaScript (Vanilla)](vanilla.md)
+- [React](react.md)
+- [Python](python.md)
+- Cybersecurity:
+  - [Asset and Inventory](asset_cyber.md)
+  - [Network Systems](system.md)
+- [AWS](aws.md)
 
-- Behavioral Interview: Evaluates past behavior to predict future performance.
-- Situational Interview: Assesses how candidates would handle hypothetical scenarios.
-- Panel Interview: Multiple interviewers assess the candidate together.
-- Group Interview: Involves interviewing multiple candidates simultaneously.
-- Stress Interview: Tests how candidates handle stress and pressure.
-- HR Interview: Conducted by HR to assess overall fit within the company culture.

@@ -1,4 +1,4 @@
-# Behavioral Interview Questions with STAR Method Answers
+## Behavioral Interview Questions with STAR Method Answers
 
 ### 1. **Question: Tell me about a time when you had to meet a tight deadline. How did you handle it?**
 
