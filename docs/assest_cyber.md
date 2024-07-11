@@ -61,16 +61,18 @@ I get my security news from a variety of sources, including:
 - **Podcasts**: Security Now, Darknet Diaries.
 - **Social Media**: Following security experts on Twitter and LinkedIn.
 
-### Basic Linux Questions
+### Videos
+
+#### Basic Linux Questions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0QGLMwR-lY?si=luMPewM8CnwkdAy9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### The grep Command
+#### The grep Command
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc_jntovCM0?si=vf_81AjVpbL4BVDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### General (Technical and non Technical) questions.
+#### General (Technical and non Technical) questions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j06Kg7OkoR0?si=-80hYOxpoxS_rnx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
