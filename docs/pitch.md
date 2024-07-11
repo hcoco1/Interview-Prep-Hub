@@ -35,7 +35,7 @@ I am eager to apply my diverse skill set in a professional setting, continuing t
 | Audio | Date | Feedback|
 |-------|------|---------|
 | <audio controls> <source src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/pitch_01.wav" type="audio/mp3"> Your browser does not support the audio element. </audio> | 2024-07-11 | 😞😕 |
-| <audio controls> <source src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/pitch_02.wav" type="audio/mp3"> Your browser does not support the audio element. </audio> | 2024-07-12 |  |
+| <audio controls> <source src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/pitch_02+(enhanced).wav" type="audio/mp3"> Your browser does not support the audio element. </audio> | 2024-07-12 |🤨 better  |
 | <audio controls> <source src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/pitch_03.wav" type="audio/mp3"> Your browser does not support the audio element. </audio> | 2024-07-14 |  |
 
 
