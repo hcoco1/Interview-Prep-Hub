@@ -1,6 +1,6 @@
 ## Common Behavioral Interview Questions
 
-### 0. **Tell me about yourself Cybersecurity**
+### 0. **Tell me about yourself (Cybersecurity)**
 
 >"I am a confident, fast-working, and attentive team worker who has the necessary skills to keep your organization safe from cyber-attacks and put systems that minimize risk while protecting your assets.
 
@@ -41,3 +41,6 @@
 ### 8. **Describe a situation where you went above and beyond your job responsibilities.**
 >"While working on a client project, I noticed some inefficiencies in our process that were causing delays. In my own time, I researched and developed a more streamlined workflow. I presented my findings and proposed changes to my manager, who implemented them. As a result, our team was able to increase productivity and complete projects faster."
 
+## References
+
+ - >CareerVidz. "CareerVidz YouTube Channel." YouTube. https://www.youtube.com/@CareerVidz.

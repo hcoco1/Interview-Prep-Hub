@@ -1,4 +1,4 @@
-## **Walk me through your resume.**
+## **Walk me through your resume.** 
 
 Thank you for the opportunity to discuss my background. My name is Ivan Arias, and I am based in Orlando, Florida. I am a Full-Stack Application Developer with strong proficiency in Python, Flask, and JavaScript-based programming, complemented by a background in geological modeling and Geographic Information System (GIS). I also possess strong interpersonal and team-building skills, which I aim to leverage in an innovative and collaborative team setting to create cutting-edge software solutions that enhance business productivity.
 
@@ -63,7 +63,14 @@ In addition to my development skills, I have expanded my expertise in cybersecur
 
 In summary, my technical skills, diverse project experience, varied professional background, continuous educational pursuits in cybersecurity and cloud technologies, and multilingual abilities have equipped me with a unique perspective and a robust toolkit for addressing complex software development challenges. I am excited to bring my expertise to a dynamic team where I can continue to grow and contribute to impactful projects.
 
+**Notice**: this section is in progress; this approach needs to be revised.
+
 
 ### Video 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4m7ICoRvons?si=KfuLgQYAvbReIVgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## References
+
+ - >CareerVidz. "CareerVidz YouTube Channel." YouTube. https://www.youtube.com/@CareerVidz.
+

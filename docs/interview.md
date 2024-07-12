@@ -126,3 +126,9 @@ I am very sorry, I don’t know the answer to that question. However, as soon I 
 ### SOFTWARE ENGINEER Behavioral Interview Questions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktUHzfvCNs8?si=KUnpkYTAeOViWIEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## References
+
+ - >CareerVidz. "CareerVidz YouTube Channel." YouTube. https://www.youtube.com/@CareerVidz.
+

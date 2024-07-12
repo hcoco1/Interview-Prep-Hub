@@ -1,4 +1,4 @@
-## Behavioral Interview Questions with STAR Method Answers
+## Behavioral Interview Questions with STAR Method Answers (ChatGPT, 2024)
 
 ### 1. **Question: Tell me about a time when you had to meet a tight deadline. How did you handle it?**
 
@@ -56,8 +56,15 @@
    - **Action**: In my own time, I researched and developed a more streamlined workflow. I presented my findings and proposed changes to my manager, who implemented them.
    - **Result**: As a result, our team was able to increase productivity and complete projects faster.
 
-These example answers demonstrate how to structure responses using the STAR method (Situation, Task, Action, Result), which provides a clear and concise way to showcase past behavior and its positive outcomes.
+
 
 ### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uQEuo7woEEk?si=HHOONUe_aI78V5k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## References
+
+ - >CareerVidz. "CareerVidz YouTube Channel." YouTube. https://www.youtube.com/@CareerVidz.
+
+ - >ChatGPT. (2024, July 9). Interview example questions using the STAR method. OpenAI.
