@@ -9,7 +9,8 @@ Created by:  [Ivan Arias](https://www.hcoco1.com)
 ### Table of Contents
 
 #### Elevator Pitch
-- [Videos & Audios](pitch.md)
+- [Develop your Pitch](pitch.md)
+- [Ivan's Pitch](ivan-pitch.md)
 
 #### Non-Technical Questions
 - [General](questions.md)
